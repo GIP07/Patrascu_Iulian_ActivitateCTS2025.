@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Patrascu_Iulian_ActivitateCTS2025..iml" filepath="$PROJECT_DIR$/.idea/Patrascu_Iulian_ActivitateCTS2025..iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonRegistery/SingletonRegistery.iml" filepath="$PROJECT_DIR$/SingletonRegistery/SingletonRegistery.iml" />
     </modules>
   </component>
 </project>
