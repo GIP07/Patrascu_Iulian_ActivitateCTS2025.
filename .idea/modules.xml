@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderBurger/BuilderBurger.iml" filepath="$PROJECT_DIR$/BuilderBurger/BuilderBurger.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderVar2/BuilderVar2.iml" filepath="$PROJECT_DIR$/BuilderVar2/BuilderVar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethodSpital/FactoryMethodSpital.iml" filepath="$PROJECT_DIR$/FactoryMethodSpital/FactoryMethodSpital.iml" />
