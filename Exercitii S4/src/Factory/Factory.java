@@ -7,7 +7,7 @@ import Functii.Sticker;
 
 public class Factory {
 
-    public IReclama getReclama(TipProdus tipProdus ,String numeProdusPromovat,String orasPromovare, int latime, int inaltime){
+    public IReclama getReclama(TipProdus tipProdus, String numeProdusPromovat,String orasPromovare, int latime, int inaltime){
        return switch(tipProdus){
            case BANNER -> new Banner(numeProdusPromovat,100,150,numeProdusPromovat);
            case STICKER -> new Sticker(numeProdusPromovat,50 ,90,numeProdusPromovat);

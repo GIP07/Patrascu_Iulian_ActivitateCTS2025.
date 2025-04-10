@@ -2,6 +2,7 @@ package Main;
 
 
 import Factory.Factory;
+import Functii.Banner;
 import Functii.IReclama;
 import Factory.TipProdus;
 
@@ -16,7 +17,14 @@ public class Main {
 
         reclamaFlyer.creareProdusPromovat();
         reclamaBanner.creareProdusPromovat();
-        reclamaSticker.creareProdusPromovat();0
+        reclamaSticker.creareProdusPromovat();
+
+        Banner banner = new Banner("Banner1",100,200,"Brasov");
+        Banner banner1 = (Banner) banner.copiereBanner();
+
+        banner.creareProdusPromovat();
+        banner1.creareProdusPromovat();
+
 
     }
 }

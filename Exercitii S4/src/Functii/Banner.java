@@ -13,6 +13,18 @@ public class Banner implements IReclama {
         this.inaltime = inaltime;
         this.orasPromovare = orasPromovare;
     }
+    public Banner(){
+
+    }
+
+    public IReclama copiereBanner(){
+        Banner banner = new Banner();
+        banner.numeProdusPromovat = this.numeProdusPromovat;
+        banner.latime = this.latime;
+        banner.inaltime = this.inaltime;
+        banner.orasPromovare = this.orasPromovare;
+        return banner;
+    }
 
     @Override
     public String getNumeProdusPromovat() {
@@ -38,4 +50,6 @@ public class Banner implements IReclama {
     public void creareProdusPromovat() {
         System.out.printf("Bannerele pentru produsul " + numeProdusPromovat + " are dimensiunile " + latime + " x " + inaltime + " si sunt promovate in orasul "+ orasPromovare  +"\n");
     }
+
+
 }

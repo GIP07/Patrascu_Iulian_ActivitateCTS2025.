@@ -1,6 +1,7 @@
 package Clase;
 
 public class Rezervare extends ARezervare{
+
     public Rezervare(String numeClient, int nrPersoane, String data, String ora) {
         super(numeClient, nrPersoane, data, ora);
     }
