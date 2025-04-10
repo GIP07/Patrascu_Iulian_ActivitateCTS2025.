@@ -12,13 +12,11 @@ public abstract class Supa {
         this.ingrediente = ingrediente;
     }
 
-    public double getPretPerSutaGrame() {
-        return pretPerSutaGrame;
-    }
 
     public abstract void preparareSupa();
 
     public double calculeazaPret(){
+
         return this.gramaj / 100 * this.pretPerSutaGrame / 100;
     }
 }

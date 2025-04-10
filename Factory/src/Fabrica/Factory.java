@@ -15,7 +15,7 @@ public class Factory {
         this.pretPerSutaGrame = pretPerSutaGrame;
     }
 
-    public Supa getSupa(TipSupa tip, String ingrediente, double extraSupa) {
+    public Supa getSupa (TipSupa tip, String ingrediente, double extraSupa) {
         return switch (tip){
             case CIUPERCI -> new SupaCiuperci(gramaj,pretPerSutaGrame,ingrediente,extraSupa);
             case LEGUME ->  new SupaLegume(gramaj, pretPerSutaGrame,ingrediente,extraSupa);
