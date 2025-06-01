@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderVar2/BuilderVar2.iml" filepath="$PROJECT_DIR$/BuilderVar2/BuilderVar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorAgentie/DecoratorAgentie.iml" filepath="$PROJECT_DIR$/DecoratorAgentie/DecoratorAgentie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii S3/Exercitii S3.iml" filepath="$PROJECT_DIR$/Exercitii S3/Exercitii S3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii S4/Exercitii S4.iml" filepath="$PROJECT_DIR$/Exercitii S4/Exercitii S4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii S7/Exercitii S7.iml" filepath="$PROJECT_DIR$/Exercitii S7/Exercitii S7.iml" />
@@ -13,9 +14,17 @@
       <module fileurl="file://$PROJECT_DIR$/FactoryRestaurant1/FactoryRestaurant1.iml" filepath="$PROJECT_DIR$/FactoryRestaurant1/FactoryRestaurant1.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryRestaurant2/FactoryRestaurant2.iml" filepath="$PROJECT_DIR$/FactoryRestaurant2/FactoryRestaurant2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Patrascu_Iulian_ActivitateCTS2025..iml" filepath="$PROJECT_DIR$/.idea/Patrascu_Iulian_ActivitateCTS2025..iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program/Program.iml" filepath="$PROJECT_DIR$/Program/Program.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyAgentie/ProxyAgentie.iml" filepath="$PROJECT_DIR$/ProxyAgentie/ProxyAgentie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyHotel/ProxyHotel.iml" filepath="$PROJECT_DIR$/ProxyHotel/ProxyHotel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxySpital/ProxySpital.iml" filepath="$PROJECT_DIR$/ProxySpital/ProxySpital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonRegistery/SingletonRegistery.iml" filepath="$PROJECT_DIR$/SingletonRegistery/SingletonRegistery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyAgentie/Strategy.iml" filepath="$PROJECT_DIR$/StrategyAgentie/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyMagazinOnline/StrategyMagazinOnline.iml" filepath="$PROJECT_DIR$/StrategyMagazinOnline/StrategyMagazinOnline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TesteV1/TesteV1.iml" filepath="$PROJECT_DIR$/TesteV1/TesteV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TesteV2/TesteV2.iml" filepath="$PROJECT_DIR$/TesteV2/TesteV2.iml" />
     </modules>
   </component>
 </project>
